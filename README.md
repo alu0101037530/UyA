@@ -4,6 +4,7 @@ Introduccion al HTTP:
 Dada las siguientes paginas, conteste a una serie de preguntas.
 
 Pagina 1: http://www.gobiernodecanarias.org/istac/api/
+
 Pagina 2: https://www3.gobiernodecanarias.org/istac/api/operations/v1.0/operations?limit=5
 
     Qué peticiones desencadena la consulta.
